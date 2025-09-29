@@ -1,0 +1,28 @@
+# Responsive Figma-to-HTML Website
+
+This is my first web project — a fully responsive website built with **vanilla HTML and CSS**, based on a Figma design.  
+The focus was on **design accuracy, responsiveness, and layout fundamentals** (without frameworks or libraries).
+
+## Features
+
+- ✅ Fully responsive
+- ✅ Pixel-perfect implementation of a Figma design
+- ✅ Built entirely with HTML & CSS (no frameworks, no JavaScript)  
+- ✅ Clean layout and visual consistency  
+
+## Preview
+
+![Landing Page](./media/landing_page.html.png)
+
+## How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
+2. Open index.html in your browser. 
+
+## Credits 
+[Design source on Figma](https://www.figma.com/community/file/1222060007934600841/minimal-landing-page-design-website-home-page-design-agency-website-ui-design)
+
+## License 
+This project is licensed under MIT License. 
