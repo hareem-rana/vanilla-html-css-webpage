@@ -19,7 +19,7 @@ The focus was on **design accuracy, responsiveness, and layout fundamentals** (w
 1. Clone the repo:
    ```bash
    git clone https://github.com/YOUR-USERNAME/REPO-NAME.git
-2. Open index.html in your browser. 
+2. Open landing_page.html in your browser. 
 
 ## Credits 
 [Design source on Figma](https://www.figma.com/community/file/1222060007934600841/minimal-landing-page-design-website-home-page-design-agency-website-ui-design)
